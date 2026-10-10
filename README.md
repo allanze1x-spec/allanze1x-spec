@@ -44,10 +44,6 @@ const allan = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allanze1x-spec&theme=tokyo-night&hide_border=true&area=true&color=7B97FF&line=2F5BEA&point=FFFFFF&radius=10" alt="Gráfico de actividad" width="100%">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/github-snake.svg">
