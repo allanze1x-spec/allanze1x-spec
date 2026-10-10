@@ -1,6 +1,6 @@
 <!-- Cabecera animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1A3A,100:2445D6&height=220&section=header&text=Allan%20Junior%20Mendes&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Desarrollo%20web%20full%20stack%20%7C%20Python%20%7C%20SQL&descSize=20&descAlignY=58&animation=fadeIn" alt="Allan Junior Mendes" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1A3A,100:2445D6&height=220&section=header&text=Allan&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Desarrollo%20web%20full%20stack%20%7C%20Python%20%7C%20SQL&descSize=20&descAlignY=58&animation=fadeIn" alt="Allan" width="100%">
 </p>
 
 <p align="center">
