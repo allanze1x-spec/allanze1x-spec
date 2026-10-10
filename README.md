@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/allanze1x-spec">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Desarrollador+web+full+stack;JavaScript%2C+TypeScript%2C+React+y+Node.js;Python%2C+Django+y+bases+de+datos+SQL;Aprendiendo+IA+generativa+con+AWS;Desde+Barcelona" alt="Desarrollador web full stack">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Desarrollador+web+full+stack;JavaScript%2C+TypeScript%2C+React+y+Node.js;Python%2C+Django+y+bases+de+datos+SQL;Desde+Barcelona" alt="Desarrollador web full stack">
   </a>
 </p>
 
@@ -28,7 +28,6 @@ const allan = {
   ciudad: "Barcelona",
   stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "SQL"],
   creo: ["páginas web", "aplicaciones", "logotipos"],
-  aprendiendo: "IA generativa y Machine Learning con AWS",
   idiomas: ["portugués", "español", "catalán (comprensión)"],
   extra: "experiencia real en reformas, mecánica, reparto y seguridad",
 };
