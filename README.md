@@ -55,15 +55,6 @@ const allan = {
   </picture>
 </p>
 
-### Formación
-
-| Año | Curso | Centro |
-| :-: | --- | --- |
-| 2026 | AWS Nivel 2: IA generativa y Machine Learning | Barcelona Activa |
-| 2024 | Desarrollo web Full Stack con JavaScript y TypeScript · 146 h | Udemy |
-| 2024 | Python 3 completo: Django, testing y POO · 141,5 h | Udemy |
-| 2024 | Bases de datos SQL y Business Intelligence · 58,5 h | Udemy |
-
 <!-- Pie animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D0B,100:000000&height=120&section=footer" alt="" width="100%">
