@@ -48,11 +48,7 @@ const allan = {
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/github-snake.svg" alt="Serpiente comiendo las contribuciones">
-  </picture>
+  <img src="https://raw.githubusercontent.com/allanze1x-spec/allanze1x-spec/output/matrix-contrib.svg" alt="Contribuciones animadas en estilo Matrix" width="100%">
 </p>
 
 <!-- Pie animado -->
