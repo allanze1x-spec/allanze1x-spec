@@ -1,0 +1,998 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="130" viewBox="0 0 820 130" role="img" aria-label="Contribuciones en estilo Matrix">
+<defs>
+<linearGradient id="drop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF41" stop-opacity="0"/><stop offset=".85" stop-color="#00FF41" stop-opacity=".55"/><stop offset="1" stop-color="#D7FFD9" stop-opacity="1"/></linearGradient>
+</defs>
+<rect width="820" height="130" rx="10" fill="#000"/>
+<rect x="14" y="14" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.26s" begin="0.1s" repeatCount="indefinite"/>
+</rect>
+<rect x="29" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="299" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="14" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.32s" begin="0.89s" repeatCount="indefinite"/>
+</rect>
+<rect x="479" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="14" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.51s" begin="2.71s" repeatCount="indefinite"/>
+</rect>
+<rect x="569" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="14" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.92s" begin="0.35s" repeatCount="indefinite"/>
+</rect>
+<rect x="629" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="14" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.7s" begin="0.12s" repeatCount="indefinite"/>
+</rect>
+<rect x="674" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="719" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="734" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="749" y="14" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.17s" begin="2.02s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="794" y="14" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="14" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="29" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="1.67s" begin="0.8s" repeatCount="indefinite"/>
+</rect>
+<rect x="299" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="479" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="569" y="29" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.29s" begin="2.18s" repeatCount="indefinite"/>
+</rect>
+<rect x="584" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="719" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="734" y="29" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.17s" begin="2.36s" repeatCount="indefinite"/>
+</rect>
+<rect x="749" y="29" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.7s" begin="0.03s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="29" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="794" y="29" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.7s" begin="2.79s" repeatCount="indefinite"/>
+</rect>
+<rect x="14" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="44" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.48s" begin="0.62s" repeatCount="indefinite"/>
+</rect>
+<rect x="299" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="479" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="44" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="4.09s" begin="1.35s" repeatCount="indefinite"/>
+</rect>
+<rect x="569" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="44" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="1.84s" begin="0.39s" repeatCount="indefinite"/>
+</rect>
+<rect x="719" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="734" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="749" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="764" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="794" y="44" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="14" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="59" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.8s" begin="2.41s" repeatCount="indefinite"/>
+</rect>
+<rect x="299" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="479" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="569" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="59" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.7s" begin="2.92s" repeatCount="indefinite"/>
+</rect>
+<rect x="704" y="59" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.99s" begin="3.89s" repeatCount="indefinite"/>
+</rect>
+<rect x="719" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="734" y="59" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.58s" begin="2.21s" repeatCount="indefinite"/>
+</rect>
+<rect x="749" y="59" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.76s" begin="2.47s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="794" y="59" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="14" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="74" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.84s" begin="2.31s" repeatCount="indefinite"/>
+</rect>
+<rect x="194" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="74" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.43s" begin="0.18s" repeatCount="indefinite"/>
+</rect>
+<rect x="299" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="74" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.19s" begin="1.16s" repeatCount="indefinite"/>
+</rect>
+<rect x="479" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="74" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="1.81s" begin="0.93s" repeatCount="indefinite"/>
+</rect>
+<rect x="509" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="569" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="74" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="1.86s" begin="1.11s" repeatCount="indefinite"/>
+</rect>
+<rect x="719" y="74" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.25s" begin="1.46s" repeatCount="indefinite"/>
+</rect>
+<rect x="734" y="74" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.56s" begin="0.84s" repeatCount="indefinite"/>
+</rect>
+<rect x="749" y="74" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.29s" begin="3.75s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="74" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.28s" begin="2.44s" repeatCount="indefinite"/>
+</rect>
+<rect x="794" y="74" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="14" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="299" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="89" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.04s" begin="2.92s" repeatCount="indefinite"/>
+</rect>
+<rect x="464" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="479" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="569" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="719" y="89" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.02s" begin="1.52s" repeatCount="indefinite"/>
+</rect>
+<rect x="734" y="89" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="4.17s" begin="2.56s" repeatCount="indefinite"/>
+</rect>
+<rect x="749" y="89" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.05s" begin="2.74s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="89" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="89" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.79s" begin="3.1s" repeatCount="indefinite"/>
+</rect>
+<rect x="794" y="89" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.2s" begin="0.13s" repeatCount="indefinite"/>
+</rect>
+<rect x="14" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="29" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="44" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="59" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="74" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="89" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="104" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="119" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="134" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="149" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="164" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="179" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="194" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="209" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="224" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="239" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="254" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="269" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="284" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="299" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="314" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="329" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="344" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="359" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="374" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="389" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="404" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="419" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="434" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="449" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="464" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="479" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="494" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="509" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="524" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="539" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="554" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="569" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="584" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="599" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="614" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="629" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="644" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="659" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="674" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="689" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="704" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="719" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="734" y="104" width="12" height="12" rx="2" fill="#0E4429">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.42s" begin="1.07s" repeatCount="indefinite"/>
+</rect>
+<rect x="749" y="104" width="12" height="12" rx="2" fill="#006D32">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="2.15s" begin="3.77s" repeatCount="indefinite"/>
+</rect>
+<rect x="764" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<rect x="779" y="104" width="12" height="12" rx="2" fill="#39D353">
+<animate attributeName="opacity" values="1;.45;1;.8;1" dur="3.88s" begin="1.26s" repeatCount="indefinite"/>
+</rect>
+<rect x="794" y="104" width="12" height="12" rx="2" fill="#0A1F0A">
+</rect>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" text-anchor="middle">
+<g><animateTransform attributeName="transform" type="translate" from="0 -79" to="0 140" dur="4.36s" begin="-3.02s" repeatCount="indefinite"/>
+<rect x="14" y="0" width="12" height="59" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="20.0" y="68" fill="#D7FFD9">ｺ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -85" to="0 140" dur="3.07s" begin="-3.77s" repeatCount="indefinite"/>
+<rect x="29" y="0" width="12" height="65" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="35.0" y="74" fill="#D7FFD9">ﾁ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -87" to="0 140" dur="4.67s" begin="-2.86s" repeatCount="indefinite"/>
+<rect x="44" y="0" width="12" height="67" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="50.0" y="76" fill="#D7FFD9">ﾊ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -58" to="0 140" dur="3.39s" begin="-0.01s" repeatCount="indefinite"/>
+<rect x="59" y="0" width="12" height="38" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="65.0" y="47" fill="#D7FFD9">1</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -57" to="0 140" dur="2.5s" begin="-4.76s" repeatCount="indefinite"/>
+<rect x="74" y="0" width="12" height="37" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="80.0" y="46" fill="#D7FFD9">ｺ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -77" to="0 140" dur="4.27s" begin="-1.04s" repeatCount="indefinite"/>
+<rect x="89" y="0" width="12" height="57" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="95.0" y="66" fill="#D7FFD9">ｵ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -79" to="0 140" dur="3.47s" begin="-2.02s" repeatCount="indefinite"/>
+<rect x="104" y="0" width="12" height="59" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="110.0" y="68" fill="#D7FFD9">ﾁ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -50" to="0 140" dur="5.4s" begin="-0.7s" repeatCount="indefinite"/>
+<rect x="119" y="0" width="12" height="30" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="125.0" y="39" fill="#D7FFD9">ｸ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -67" to="0 140" dur="4.45s" begin="-2.32s" repeatCount="indefinite"/>
+<rect x="134" y="0" width="12" height="47" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="140.0" y="56" fill="#D7FFD9">ﾆ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -79" to="0 140" dur="2.57s" begin="-2.83s" repeatCount="indefinite"/>
+<rect x="149" y="0" width="12" height="59" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="155.0" y="68" fill="#D7FFD9">ｱ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -66" to="0 140" dur="5.35s" begin="-0.62s" repeatCount="indefinite"/>
+<rect x="164" y="0" width="12" height="46" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="170.0" y="55" fill="#D7FFD9">ｼ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -90" to="0 140" dur="3.88s" begin="-4.47s" repeatCount="indefinite"/>
+<rect x="179" y="0" width="12" height="70" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="185.0" y="79" fill="#D7FFD9">ﾄ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -62" to="0 140" dur="4.98s" begin="-2.46s" repeatCount="indefinite"/>
+<rect x="194" y="0" width="12" height="42" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="200.0" y="51" fill="#D7FFD9">ｺ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -83" to="0 140" dur="3.43s" begin="-4.19s" repeatCount="indefinite"/>
+<rect x="209" y="0" width="12" height="63" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="215.0" y="72" fill="#D7FFD9">ｱ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -57" to="0 140" dur="4.18s" begin="-2.56s" repeatCount="indefinite"/>
+<rect x="224" y="0" width="12" height="37" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="230.0" y="46" fill="#D7FFD9">ﾈ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -69" to="0 140" dur="5.1s" begin="-0.84s" repeatCount="indefinite"/>
+<rect x="239" y="0" width="12" height="49" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="245.0" y="58" fill="#D7FFD9">ﾀ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -55" to="0 140" dur="2.39s" begin="-0.61s" repeatCount="indefinite"/>
+<rect x="254" y="0" width="12" height="35" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="260.0" y="44" fill="#D7FFD9">ｶ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -84" to="0 140" dur="4.62s" begin="-0.92s" repeatCount="indefinite"/>
+<rect x="269" y="0" width="12" height="64" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="275.0" y="73" fill="#D7FFD9">ｹ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -85" to="0 140" dur="2.62s" begin="-2.62s" repeatCount="indefinite"/>
+<rect x="284" y="0" width="12" height="65" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="290.0" y="74" fill="#D7FFD9">ｻ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -77" to="0 140" dur="3.07s" begin="-0.64s" repeatCount="indefinite"/>
+<rect x="299" y="0" width="12" height="57" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="305.0" y="66" fill="#D7FFD9">ｾ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -62" to="0 140" dur="5.27s" begin="-1.22s" repeatCount="indefinite"/>
+<rect x="314" y="0" width="12" height="42" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="320.0" y="51" fill="#D7FFD9">ﾄ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -73" to="0 140" dur="3.52s" begin="-1.64s" repeatCount="indefinite"/>
+<rect x="329" y="0" width="12" height="53" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="335.0" y="62" fill="#D7FFD9">ﾍ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -65" to="0 140" dur="5.17s" begin="-2.74s" repeatCount="indefinite"/>
+<rect x="344" y="0" width="12" height="45" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="350.0" y="54" fill="#D7FFD9">ｿ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -85" to="0 140" dur="2.41s" begin="-4.89s" repeatCount="indefinite"/>
+<rect x="359" y="0" width="12" height="65" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="365.0" y="74" fill="#D7FFD9">ｿ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -90" to="0 140" dur="4.14s" begin="-4.96s" repeatCount="indefinite"/>
+<rect x="374" y="0" width="12" height="70" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="380.0" y="79" fill="#D7FFD9">ｴ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -71" to="0 140" dur="2.96s" begin="-0.47s" repeatCount="indefinite"/>
+<rect x="389" y="0" width="12" height="51" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="395.0" y="60" fill="#D7FFD9">ｵ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -81" to="0 140" dur="3.9s" begin="-3.61s" repeatCount="indefinite"/>
+<rect x="404" y="0" width="12" height="61" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="410.0" y="70" fill="#D7FFD9">ｾ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -86" to="0 140" dur="3.98s" begin="-1.38s" repeatCount="indefinite"/>
+<rect x="419" y="0" width="12" height="66" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="425.0" y="75" fill="#D7FFD9">0</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -76" to="0 140" dur="3.0s" begin="-2.64s" repeatCount="indefinite"/>
+<rect x="434" y="0" width="12" height="56" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="440.0" y="65" fill="#D7FFD9">ｽ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -72" to="0 140" dur="2.51s" begin="-1.71s" repeatCount="indefinite"/>
+<rect x="449" y="0" width="12" height="52" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="455.0" y="61" fill="#D7FFD9">ﾌ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -53" to="0 140" dur="3.56s" begin="-0.68s" repeatCount="indefinite"/>
+<rect x="464" y="0" width="12" height="33" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="470.0" y="42" fill="#D7FFD9">ｷ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -56" to="0 140" dur="2.4s" begin="-1.36s" repeatCount="indefinite"/>
+<rect x="479" y="0" width="12" height="36" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="485.0" y="45" fill="#D7FFD9">ﾀ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -58" to="0 140" dur="2.83s" begin="-2.32s" repeatCount="indefinite"/>
+<rect x="494" y="0" width="12" height="38" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="500.0" y="47" fill="#D7FFD9">ﾌ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -54" to="0 140" dur="2.81s" begin="-2.69s" repeatCount="indefinite"/>
+<rect x="509" y="0" width="12" height="34" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="515.0" y="43" fill="#D7FFD9">ﾍ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -56" to="0 140" dur="4.87s" begin="-0.72s" repeatCount="indefinite"/>
+<rect x="524" y="0" width="12" height="36" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="530.0" y="45" fill="#D7FFD9">ｴ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -50" to="0 140" dur="4.35s" begin="-2.3s" repeatCount="indefinite"/>
+<rect x="539" y="0" width="12" height="30" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="545.0" y="39" fill="#D7FFD9">ｶ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -60" to="0 140" dur="5.26s" begin="-0.76s" repeatCount="indefinite"/>
+<rect x="554" y="0" width="12" height="40" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="560.0" y="49" fill="#D7FFD9">ﾋ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -75" to="0 140" dur="3.8s" begin="-3.93s" repeatCount="indefinite"/>
+<rect x="569" y="0" width="12" height="55" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="575.0" y="64" fill="#D7FFD9">ｴ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -74" to="0 140" dur="2.74s" begin="-4.99s" repeatCount="indefinite"/>
+<rect x="584" y="0" width="12" height="54" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="590.0" y="63" fill="#D7FFD9">ﾁ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -68" to="0 140" dur="5.26s" begin="-1.07s" repeatCount="indefinite"/>
+<rect x="599" y="0" width="12" height="48" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="605.0" y="57" fill="#D7FFD9">ﾌ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -85" to="0 140" dur="4.5s" begin="-1.35s" repeatCount="indefinite"/>
+<rect x="614" y="0" width="12" height="65" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="620.0" y="74" fill="#D7FFD9">1</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -53" to="0 140" dur="2.71s" begin="-3.52s" repeatCount="indefinite"/>
+<rect x="629" y="0" width="12" height="33" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="635.0" y="42" fill="#D7FFD9">ｴ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -87" to="0 140" dur="4.67s" begin="-4.71s" repeatCount="indefinite"/>
+<rect x="644" y="0" width="12" height="67" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="650.0" y="76" fill="#D7FFD9">0</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -60" to="0 140" dur="3.86s" begin="-0.74s" repeatCount="indefinite"/>
+<rect x="659" y="0" width="12" height="40" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="665.0" y="49" fill="#D7FFD9">ｴ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -61" to="0 140" dur="5.37s" begin="-4.6s" repeatCount="indefinite"/>
+<rect x="674" y="0" width="12" height="41" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="680.0" y="50" fill="#D7FFD9">ｵ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -65" to="0 140" dur="4.16s" begin="-1.62s" repeatCount="indefinite"/>
+<rect x="689" y="0" width="12" height="45" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="695.0" y="54" fill="#D7FFD9">ﾊ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -65" to="0 140" dur="2.6s" begin="-0.55s" repeatCount="indefinite"/>
+<rect x="704" y="0" width="12" height="45" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="710.0" y="54" fill="#D7FFD9">ｳ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -87" to="0 140" dur="4.24s" begin="-2.9s" repeatCount="indefinite"/>
+<rect x="719" y="0" width="12" height="67" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="725.0" y="76" fill="#D7FFD9">ﾅ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 140" dur="5.28s" begin="-3.98s" repeatCount="indefinite"/>
+<rect x="734" y="0" width="12" height="50" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="740.0" y="59" fill="#D7FFD9">ﾀ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -69" to="0 140" dur="3.08s" begin="-4.35s" repeatCount="indefinite"/>
+<rect x="749" y="0" width="12" height="49" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="755.0" y="58" fill="#D7FFD9">ﾎ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -54" to="0 140" dur="3.24s" begin="-1.24s" repeatCount="indefinite"/>
+<rect x="764" y="0" width="12" height="34" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="770.0" y="43" fill="#D7FFD9">ｱ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -56" to="0 140" dur="3.71s" begin="-0.01s" repeatCount="indefinite"/>
+<rect x="779" y="0" width="12" height="36" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="785.0" y="45" fill="#D7FFD9">ｵ</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0 -58" to="0 140" dur="3.97s" begin="-2.47s" repeatCount="indefinite"/>
+<rect x="794" y="0" width="12" height="38" rx="2" fill="url(#drop)" opacity=".75"/>
+<text x="800.0" y="47" fill="#D7FFD9">ﾇ</text>
+</g>
+</g></svg>
