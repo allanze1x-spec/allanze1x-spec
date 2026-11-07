@@ -28,8 +28,6 @@ const allan = {
   ciudad: "Barcelona",
   stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python", "SQL"],
   creo: ["páginas web", "aplicaciones", "logotipos"],
-  idiomas: ["portugués", "español", "catalán (comprensión)"],
-  extra: "experiencia real en reformas, mecánica, reparto y seguridad",
 };
 ```
 
